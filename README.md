@@ -17,7 +17,7 @@
 
 ## 📚 Education
 - **B.Tech - ECE**, Avanthi Institute of Technology, 2021–2025  
-  CGPA: 7.0 (ongoing)
+  CGPA:(ongoing)
 - **Intermediate (MPC)**,  Shrindi Junior College  
   Percentage: 66.4%
 - **SSC**, Little Flower High School  
